@@ -1,6 +1,6 @@
 # Hash Tran UI
 
-This is a chrome extension that provides a tabular UI for viewing (currently) hash tran csv files.
+This is a chrome extension that provides a tabular UI for viewing csv files.
 
 <img src="csv_table.png" width="500px"/>
 
