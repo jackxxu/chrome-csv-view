@@ -1,4 +1,4 @@
-# Hash Tran UI
+# Chrome CSV Viewer
 
 This is a chrome extension that provides a tabular UI for viewing csv files.
 
