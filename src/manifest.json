@@ -1,7 +1,7 @@
 {
   "name": "CSV Viewer",
   "description": "View CSV files in browser",
-  "version": "2.0",
+  "version": "2.1",
   "content_scripts": [
     { "matches": ["*://*/*.csv"],
       "js": ["vendor/papaparse.min.js","vendor/handsontable.full.min.js", "content.js"],
