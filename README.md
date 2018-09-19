@@ -1,6 +1,6 @@
 # Chrome CSV Viewer
 
-This is a chrome extension that provides a tabular UI for viewing csv files.
+This is a chrome extension that provides a tabular UI for viewing csv files, especially raw csv files in github or other repos.
 
 <img src="csv_table.png" width="500px"/>
 
