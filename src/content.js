@@ -10,8 +10,8 @@
 
       var st = document.createElement('style');
           st.type = 'text/css';
-          st.textContent = '@font-face { font-family: Roboto; src: url("'
-                           + chrome.extension.getURL('vendor/Roboto-Regular.ttf')
+          st.textContent = '@font-face { font-family: Roboto Mono; src: url("'
+                           + chrome.extension.getURL('vendor/RobotoMono-Regular.ttf')
                            + '"); }';
       document.head.appendChild(st);
 
